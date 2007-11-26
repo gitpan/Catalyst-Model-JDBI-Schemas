@@ -5,7 +5,7 @@ use warnings;
 use Carp;
 use base qw( Catalyst::Model Class::Accessor::Fast );
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use NEXT;
 use UNIVERSAL::require;

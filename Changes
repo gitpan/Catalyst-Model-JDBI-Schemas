@@ -1,4 +1,7 @@
 Revision history for Catalyst-Model-JDBI-Schemas
 
+0.02 2007/11/27
+  - added missing Test::UseAllModules dependency; no code changes
+
 0.01 2007/11/26
   - initial release
